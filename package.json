@@ -1,0 +1,25 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoRocS/Validador-de-campos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoRocS/Validador-de-campos/issues"
+  },
+  "homepage": "https://github.com/RodrigoRocS/Validador-de-campos#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.8.3",
+    "validator": "^13.9.0",
+    "vite": "^4.1.1"
+  }
+}
